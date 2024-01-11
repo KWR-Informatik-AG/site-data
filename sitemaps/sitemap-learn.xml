@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- German Language -->
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/devops/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/devops/git/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/languages/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/languages/html/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/languages/html/basics/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/languages/css/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/languages/javascript/</loc>
+    </url>
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/de/languages/typescript/</loc>
+    </url>
+
+    <!-- English Language -->
+    <url>
+        <loc>https://kwr-informatik-ag.github.io/learn/en/</loc>
+    </url>
+
+</urlset>

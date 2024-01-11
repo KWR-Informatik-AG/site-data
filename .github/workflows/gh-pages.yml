@@ -4,6 +4,8 @@ on:
   push:
     branches: [ "main" ]
     paths: [ ".github/workflows", "public" ]
+    
+  workflow_dispatch:
 
 jobs:
   deploy:
